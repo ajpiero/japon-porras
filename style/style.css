@@ -1,0 +1,61 @@
+#header-text{
+ color:#fff;
+}
+
+a{
+text-decoration: none;
+}
+
+#hero-header{
+margin-top:-50px; 
+background-image: url('./images/japan_cover.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat; 
+background-attachment: fixed; 
+background-size: 100% 100%; 
+}
+
+#historia{
+background-image: url('./images/historia.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat;
+}
+
+#politica{
+background-image: url('./images/politica.jpg');
+background-size: cover; 
+background-repeat: no-repeat; 
+}
+
+#cultura{
+background-image: url('./images/cultura.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat; 
+}
+
+#anime{
+margin-top:-50px; 
+background-image: url('./images/demon2.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat; 
+background-attachment: fixed; 
+background-size: 100% 100%; 
+}
+
+#sushi{
+background-image: url('./images/sushi.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat; 
+}
+
+#ramen{
+background-image: url('./images/ramen2.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat;
+}
+
+#yakiroti{
+background-image: url('./images/yakitori.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat;
+}
