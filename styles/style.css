@@ -1,9 +1,9 @@
 #header-text {
-    color: rgba(255, 255, 255, );
+    color: rgba(255, 255, 255);
 }
 button {
     background-color: #0045da;
-    color: rgba(255, 255, 255, );
+    color: rgba(255, 255, 255);
 }
 a {
     color: #eee;
@@ -27,12 +27,18 @@ a:active {
 }
 #hero-header {
     margin-top: -50px;
+    color: rgba(255, 255, 255);
     background-image: url('../images/japan_cover.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
+#parragraph{
+    text-align: justify;
+    }
+
 #historia {
     background-image: url('../images/historia.jpg');
     background-size: cover;
@@ -53,6 +59,7 @@ a:active {
 }
 #anime {
     margin-top: -50px;
+    color: rgba(255, 255, 255);
     background-image: url('../images/demon2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
@@ -79,7 +86,7 @@ a:active {
     background-size: 100% 100%;
 }
 #yakiroti {
-    background-image: url('../images/yakitori.jpg');
+    background-image: url('../images/Yakitori.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100% 100%;

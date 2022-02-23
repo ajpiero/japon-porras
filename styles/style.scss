@@ -37,11 +37,16 @@ a{
    
    #hero-header{
    margin-top:-50px; 
+   color: $primaryColor;
    background-image: url('../images/japan_cover.jpg'); 
    background-size: cover; 
    background-repeat: no-repeat; 
    background-attachment: fixed; 
    background-size: 100% 100%; 
+   }
+
+   #parragraph{
+   text-align: justify;
    }
    
    #historia{
@@ -67,6 +72,7 @@ a{
    
    #anime{
    margin-top:-50px; 
+   color: $primaryColor;
    background-image: url('../images/demon2.jpg'); 
    background-size: cover; 
    background-repeat: no-repeat; 
@@ -97,7 +103,7 @@ a{
    }
    
    #yakiroti{
-   background-image: url('../images/yakitori.jpg'); 
+   background-image: url('../images/Yakitori.jpg');
    background-size: cover; 
    background-repeat: no-repeat;
    background-size: 100% 100%; 
