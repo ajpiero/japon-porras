@@ -86,13 +86,13 @@ a:active {
     background-size: 100% 100%;
 }
 #yakiroti {
-    background-image: url('../images/Yakitori.jpg');
+    background-image: url('../images/yakitori.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 #fotoPrimaria {
-    background-image: url('../images/monte.png.jpg');
+    background-image: url('../images/monte.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
