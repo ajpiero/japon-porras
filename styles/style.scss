@@ -12,6 +12,26 @@ button{
     color: $primaryColor;
 }
 
+@mixin boton {
+  a {
+     color: $primaryColor;
+     
+     &:hover {
+        color: aqua;
+     }
+
+     &:visited {
+        color:$fade-white;
+     }
+  }
+}
+
+@include boton.scss; 
+
+boton {
+  @include boton;
+}
+
 a{
   color: $fade-white;
   text-decoration: none;

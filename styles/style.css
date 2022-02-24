@@ -5,6 +5,17 @@ button {
     background-color: #0045da;
     color: rgba(255, 255, 255);
 }
+
+#boton a {
+    color: white;
+ }
+ #boton a:hover {
+    color: aqua;
+ }
+ #boton a:visited {
+    color: #eee;
+ }
+
 a {
     color: #eee;
     text-decoration: none;
